@@ -1,0 +1,40 @@
+ <UserFolder>C:\Users\0\OneDrive</UserFolder>
+  <UserFolder>C:\Users\0\Contacts</UserFolder>
+  <UserFolder>C:\Users\0\Pictures</UserFolder>
+  <UserFolder>C:\Users\0\Favorites</UserFolder>
+  <UserFolder>C:\Users\0\Videos</UserFolder>
+  <UserFolder>C:\Users\0\Music</UserFolder>
+  <UserFolder>C:\Users\0\Downloads</UserFolder>
+  <UserFolder>C:\Users\0\Documents</UserFolder>
+  <UserFolder>C:\Users\0\Links</UserFolder>
+  <UserFolder>C:\Users\0\Saved Games</UserFolder>
+  <LocalCatalogPath1>C:\Users\0\AppData\Local\Microsoft\Windows\FileHistory\Configuration\Catalog1.edb</LocalCatalogPath1>
+  <LocalCatalogPath2>C:\Users\0\AppData\Local\Microsoft\Windows\FileHistory\Configuration\Catalog2.edb</LocalCatalogPath2>
+  <StagingArea>
+    <StagingAreaPath>C:\Users\0\AppData\Local\Microsoft\Windows\FileHistory\Data</StagingAreaPath>
+    <StagingAreaMaximumCapacity>1245171998</StagingAreaMaximumCapacity>
+    <StagingAreaWarningThreshold>933878998</StagingAreaWarningThreshold>
+  </StagingArea>
+  <AvailabilityPolicies>
+    <TargetAbsenceTime>5</TargetAbsenceTime>
+    <TimeInUnprotectedState>3</TimeInUnprotectedState>
+  </AvailabilityPolicies>
+  <RetentionPolicies>
+    <RetentionPolicyType>DISABLED</RetentionPolicyType>
+    <MinimumRetentionAge>365</MinimumRetentionAge>
+  </RetentionPolicies>
+  <DPFrequency>3600</DPFrequency>
+  <DPStatus>ENABLED</DPStatus>
+  <Target>
+    <TargetName>WIN10 64&amp;32</TargetName>
+    <TargetUrl>D:\</TargetUrl>
+    <TargetVolumePath>\\?\Volume{8a1e92cc-7584-11e9-a6da-701a0439ee96}\</TargetVolumePath>
+    <TargetDriveType>REMOVABLE</TargetDriveType>
+    <TargetConfigPath1>0\DESKTOP-CT486U7\Configuration\Config1.xml</TargetConfigPath1>
+    <TargetConfigPath2>0\DESKTOP-CT486U7\Configuration\Config2.xml</TargetConfigPath2>
+    <TargetCatalogPath1>0\DESKTOP-CT486U7\Configuration\Catalog1.edb</TargetCatalogPath1>
+    <TargetCatalogPath2>0\DESKTOP-CT486U7\Configuration\Catalog2.edb</TargetCatalogPath2>
+    <TargetBackupStorePath>0\DESKTOP-CT486U7\Data</TargetBackupStorePath>
+    <TargetWarningThreshold>98</TargetWarningThreshold>
+  </Target>
+</DataProtectionUserConfig>
